@@ -9,6 +9,7 @@ A repository for managing assignments on Python-Beginning Project. The repositor
 - [milestone_3](./milestone_3) - Milestone 3 "Pascal's Triangle"
 - [milestone_4](./milestone_4) - Milestone 4 "Trade-off's"
 - [milestone_5](./milestone_5) - Milestone 5 "Ancient, Inc."
+- [milestone_7](./milestone_7) - Milestone 7 "Ancient, Inc.2"
 
 ## Getting Started
 
